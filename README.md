@@ -30,6 +30,7 @@ The following design patterns are implemented in this project:
 Each pattern is carefully crafted to address specific design challenges, promoting code reusability, maintainability, and scalability.
 
 ## Project Structure
+
 java-mysql-design-patterns/
 │
 ├── src/
