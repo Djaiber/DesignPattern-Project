@@ -30,19 +30,44 @@ The following design patterns are implemented in this project:
 Each pattern is carefully crafted to address specific design challenges, promoting code reusability, maintainability, and scalability.
 
 ## Project Structure
+java-mysql-design-patterns/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── example/
+│   │   │   │   │   ├── pattern1/
+│   │   │   │   │   │   ├── Pattern1Class.java
+│   │   │   │   │   │   ├── ...
+│   │   │   │   │   ├── pattern2/
+│   │   │   │   │   │   ├── Pattern2Class.java
+│   │   │   │   │   │   ├── ...
+│   │   │   │   │   ├── ...
+│   ├── resources/
+│   │   ├── database/
+│   │   │   ├── schema.sql
+│   │   │   ├── ...
+│   │   ├── ...
+├── .gitignore
+├── LICENSE
+└── README.md
 
-##Setup
+## Setup
+
 Clone the repository to your local machine:
 bash
+
 Copy code
 git clone https://github.com/your-username/java-mysql-design-patterns.git
 [Add specific setup instructions if needed, e.g., setting up MySQL database, configuring IDE, etc.]
 
-##Usage
+## Usage
 [Provide usage instructions, such as how to run the project, sample commands, etc.]
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or create a pull request.
 
-##License
-MIT License
+## License
+
+This project is licensed under the [MIT License](LICENSE).
